@@ -1,0 +1,45 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-omop.js
+inputModule2:
+  class: File
+  path: python/gastrooesophageal-reflux-disease---primary.py
+inputModule3:
+  class: File
+  path: python/gastrooesophageal---primary.py
+inputModule4:
+  class: File
+  path: python/gastro-oesophageal-reflux-disease-operation---primary.py
+inputModule5:
+  class: File
+  path: python/reflux---primary.py
+inputModule6:
+  class: File
+  path: python/thoracic-gastro-oesophageal-reflux-disease---primary.py
+inputModule7:
+  class: File
+  path: python/gastro-oesophageal-reflux-disease-revision---primary.py
+inputModule8:
+  class: File
+  path: python/gastroplasty-gastro-oesophageal-reflux-disease---primary.py
+inputModule9:
+  class: File
+  path: python/gastro-oesophageal-reflux-disease-gastropexy---primary.py
+inputModule10:
+  class: File
+  path: python/gastro-oesophageal-reflux-disease-fundoplication---primary.py
+inputModule11:
+  class: File
+  path: python/abdominal-gastro-oesophageal-reflux-disease---primary.py
+inputModule12:
+  class: File
+  path: python/gastro-oesophageal-reflux-disease-unspecified---primary.py
+inputModule13:
+  class: File
+  path: python/gastro-oesophageal-reflux-disease-procedure---primary.py
+inputModule14:
+  class: File
+  path: python/gastro-oesophageal-reflux-disease-prosthesis---primary.py
+inputModule15:
+  class: File
+  path: python/output-cases.py
